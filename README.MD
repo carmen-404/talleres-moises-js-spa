@@ -31,7 +31,7 @@ La primera parte (web corporativa estática) está en el repositorio [Talleres-M
 ## Enlaces
 
 - 💻 **Repositorio GitHub:** [talleres-moises-js-app](https://github.com/carmen-404/talleres-moises-js-spa)
-- 🌐 **Alojamiento web:** [talleres-moises-php-app.free.je](https://talleres-moises-js-spa.free.je)
+- 🌐 **Alojamiento web:** [talleres-moises-js-spa.free.je](https://talleres-moises-js-spa.free.je)
 
 ## Conexión a la base de datos (`config.php`)
 
